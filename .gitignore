@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Java (artefatos de build e jar baixado)
+java/out/
+java/lib/*.jar
+
+# slice2java baixado sob demanda
+tools/slice2java
+tools/slice-tools.jar
